@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - simin
+  - uranai
+  - reinou
+  - kariudo
+  - panya
+  - nekomata
+  - kaitou
+  - sityou
+  - dokusai
+  - nitouryuu
+  - ousama
+  - atotugi
+  - noroware
+  - buki
+  - bougu
+  - hutago
+  - isya
+  - banken
+  - tyourou
+  - ookamiwaki
+  - niseuranai
+  - hikari
+  - zinrou
+  - kyouzin
+  - kyousin
+  - kuroneko
+  - tairou
+  - reinourou
+  - sasori
+  - gyanbura
+  - kariudokira
+  - syokuyoku
+  - zyurou
+  - mazyutusi
+  - husi
+  - noroi
+  - yami
+  - kitune
+  - haisinsya
+  - zonbi
+  - qp
+  - zyunai
+  - nekoaikouka
+  - zyuzyutusi
+  - teruteru
+  - sinbun
+  - kenzya
+  - itaako
+  - kaunsera
+  - miko
+  - sinpu
+  - seisyoku
+  - toubou
+  - nouaru
+  - sagisi
+  - kogitune
+  - zonbimania
+  - saiko
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
